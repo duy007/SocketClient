@@ -1,0 +1,9 @@
+time.nist.gov
+13
+Starting Thread for user Input
+'exit' to close connection
+Input:
+
+60057 23-04-23 19:23:20 50 0 0  18.0 UTC(NIST) * 
+exit
+Socket Close, Threading Closing

@@ -1,0 +1,7 @@
+```
+I do not why the qotd service has a connection problem. I think it is because of my ISP...
+```
+
+djxmmx.net
+17
+java.net.ConnectException: Connection timed out: connect

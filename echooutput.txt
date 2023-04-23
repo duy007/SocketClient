@@ -1,0 +1,13 @@
+tcpbin.com
+4242
+Starting Thread for user Input
+'exit' to close connection
+Input:
+GET / HTTP/1.0
+
+hello
+hello
+its me
+its me
+exit
+Closing Socket
